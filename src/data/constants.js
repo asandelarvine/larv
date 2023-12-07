@@ -5,7 +5,7 @@ export const Bio = {
       "I am an Enthusiastic developer. Passionate about building delightful and impactful products that make a difference. Writer on Medium. Excited about tough problems, and always seeking discomfort to learn something new. I’m a self-driven, motivated, and independent learner.",
     github: "https://github.com/asandelarvine",
     resume:
-      "https://drive.google.com/file/d/1k808MconYscn2qIGhQmurs46c5ubxHrL/view?usp=sharing",
+      "https://drive.google.com/file/d/1asPb2rAB5Ul5WbXMwLZpPVveooXwArE_/view?usp=drive_link",
     linkedin: "https://www.linkedin.com/in/larvine-asande-a51214230/",
   };
   
