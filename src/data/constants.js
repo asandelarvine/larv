@@ -276,8 +276,8 @@ export const Bio = {
   ];
   
   export const TimeLineData = [
-    { year: 2020, text: "Started my journey" },
-    { year: 2022, text: "Worked as a freelance developer" },
-    { year: 2023, text: "Shared my projects with the world" },
-    { year: 2023, text: "Started my own platform" },
+    { year: 2020, text: "Commensed my journey" },
+    { year: 2022, text: "Served as a self-employed developer" },
+    { year: 2022, text: "Publicized my projects online" },
+    { year: 2023, text: "Launched a platform of my own" },
   ];
